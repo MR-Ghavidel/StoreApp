@@ -1,0 +1,14 @@
+﻿  Brand.cpp
+  Category.cpp
+  main.cpp
+E:\Pro Programming Project\Pro Project - v4.5 - getline ws- license (owner name) - menu improvment\final pro\main.cpp(224,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Pro Programming Project\Pro Project - v4.5 - getline ws- license (owner name) - menu improvment\final pro\main.cpp(2073,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Product.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\Pro Programming Project\Pro Project - v4.5 - getline ws- license (owner name) - menu improvment\final pro\main.cpp(2142): warning C4715: 'passwordCheck': not all control paths return a value
+E:\Pro Programming Project\Pro Project - v4.5 - getline ws- license (owner name) - menu improvment\final pro\main.cpp(1866): warning C4715: 'search': not all control paths return a value
+E:\Pro Programming Project\Pro Project - v4.5 - getline ws- license (owner name) - menu improvment\final pro\main.cpp(340): warning C4715: 'ActiveLicenseFirst': not all control paths return a value
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  final pro.vcxproj -> E:\Pro Programming Project\Pro Project - v4.5 - getline ws- license (owner name) - menu improvment\x64\Release\Pro Project - v4.5.exe
